@@ -1,0 +1,199 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/buddypress-badge\n"
+"POT-Creation-Date: 2010-04-23 10:12+0000\n"
+"PO-Revision-Date: 2010-04-23 20:57+0700\n"
+"Last-Translator: warut <warut21@yahoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/bp-badge-admin.php:138
+msgid "Badge Admin"
+msgstr "Administration Badge"
+
+#: includes/bp-badge-admin.php:144
+msgid "Settings Updated."
+msgstr "Options sauvegardées."
+
+#: includes/bp-badge-admin.php:152
+msgid "General option"
+msgstr "Options Générales"
+
+#: includes/bp-badge-admin.php:158
+msgid "Show only website logo"
+msgstr "N'afficher que le logo du site"
+
+#: includes/bp-badge-admin.php:162
+#: includes/bp-badge-admin.php:176
+#: includes/bp-badge-admin.php:190
+#: includes/bp-badge-admin.php:204
+#: includes/bp-badge-admin.php:288
+#: includes/bp-badge-admin.php:314
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/bp-badge-admin.php:164
+#: includes/bp-badge-admin.php:178
+#: includes/bp-badge-admin.php:192
+#: includes/bp-badge-admin.php:206
+#: includes/bp-badge-admin.php:290
+#: includes/bp-badge-admin.php:316
+msgid "No"
+msgstr "Non"
+
+#: includes/bp-badge-admin.php:172
+msgid "User can select layout"
+msgstr "L'utilisateur peux définir une disposition personnlisée"
+
+#: includes/bp-badge-admin.php:186
+msgid "User can add profile image"
+msgstr "L'itulisateur peut ajouter l'image de son profil"
+
+#: includes/bp-badge-admin.php:200
+msgid "User can add xprofile information"
+msgstr "L'itulisateur peut ajouter des informations de son profil"
+
+#: includes/bp-badge-admin.php:214
+msgid "Display option"
+msgstr "Options d'affichage"
+
+#: includes/bp-badge-admin.php:220
+msgid "Default layout"
+msgstr "Disposition par défaut"
+
+#: includes/bp-badge-admin.php:224
+#: includes/bp-badge-core.php:543
+msgid "Vertical"
+msgstr "Vertical"
+
+#: includes/bp-badge-admin.php:226
+#: includes/bp-badge-core.php:547
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: includes/bp-badge-admin.php:234
+msgid "Default profile image"
+msgstr "Image du profil par défaut"
+
+#: includes/bp-badge-admin.php:238
+msgid "Show"
+msgstr "Montrer"
+
+#: includes/bp-badge-admin.php:240
+msgid "Hide"
+msgstr "Cacher"
+
+#: includes/bp-badge-admin.php:248
+msgid "Profile image size"
+msgstr "Taille de l'image du profil"
+
+#: includes/bp-badge-admin.php:252
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: includes/bp-badge-admin.php:254
+msgid "Full"
+msgstr "Plein"
+
+#: includes/bp-badge-admin.php:262
+msgid "Background color"
+msgstr "Couleur de fond"
+
+#: includes/bp-badge-admin.php:272
+msgid "Text color"
+msgstr "Couleur du text"
+
+#: includes/bp-badge-admin.php:284
+msgid "Bold field text"
+msgstr "Text en gras"
+
+#: includes/bp-badge-admin.php:298
+msgid "Field text color"
+msgstr "Couleur du text"
+
+#: includes/bp-badge-admin.php:310
+msgid "Show badge border"
+msgstr "Afficher les bordures du badge"
+
+#: includes/bp-badge-admin.php:324
+msgid "Border color"
+msgstr "Couleur de la bordure"
+
+#: includes/bp-badge-admin.php:336
+msgid "Badge code"
+msgstr "Code du badge"
+
+#: includes/bp-badge-admin.php:340
+msgid "Long"
+msgstr "Long"
+
+#: includes/bp-badge-admin.php:342
+msgid "Short"
+msgstr "Court"
+
+#: includes/bp-badge-admin.php:349
+msgid "Exclude field (seperate by ,)"
+msgstr "Exclure le(s) champs (séparés par des virgules)"
+
+#: includes/bp-badge-admin.php:363
+msgid "Save Settings"
+msgstr "Sauvegarder les otpions"
+
+#: includes/bp-badge-core.php:98
+msgid "Badge Setup"
+msgstr "Configuration du badge"
+
+#: includes/bp-badge-core.php:130
+msgid "Badge"
+msgstr "Badge"
+
+#: includes/bp-badge-core.php:471
+#: includes/bp-badge-core.php:475
+msgid "Buddypress Badge START"
+msgstr "Badge Début"
+
+#: includes/bp-badge-core.php:471
+msgid "Create Your Badge"
+msgstr "Créer votre badge"
+
+#: includes/bp-badge-core.php:471
+#: includes/bp-badge-core.php:475
+msgid "Buddypress Badge END"
+msgstr "Badge Fin"
+
+#: includes/bp-badge-core.php:539
+msgid "Layout :"
+msgstr "Disposition :"
+
+#: includes/bp-badge-core.php:557
+msgid "Information :"
+msgstr "Informations :"
+
+#: includes/bp-badge-core.php:569
+msgid "Photo"
+msgstr "Image"
+
+#: includes/bp-badge-core.php:599
+msgid "Update Badge"
+msgstr "Mettre à jour le badge"
+
+#: includes/templates/badge/screen.php:49
+msgid "Badge Generator"
+msgstr "Générateur de badge"
+
+#: includes/templates/badge/screen.php:95
+msgid "Copy and Pasts the following code on your website :"
+msgstr "Voici le code à copier / coller sur votre site web pour afficher votre nouveau badge :"
+
+#: includes/templates/badge/screen.php:103
+msgid "Preview :"
+msgstr "Aperçu :"
+

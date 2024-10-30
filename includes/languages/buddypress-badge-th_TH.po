@@ -1,0 +1,199 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/buddypress-badge\n"
+"POT-Creation-Date: 2010-04-22 15:24+0000\n"
+"PO-Revision-Date: 2010-04-22 22:44+0700\n"
+"Last-Translator: warut <warut21@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/bp-badge-admin.php:138
+msgid "Badge Admin"
+msgstr ""
+
+#: includes/bp-badge-admin.php:144
+msgid "Settings Updated."
+msgstr ""
+
+#: includes/bp-badge-admin.php:152
+msgid "General option"
+msgstr "ตัวเลือกทั่วไป"
+
+#: includes/bp-badge-admin.php:158
+msgid "Show only website logo"
+msgstr "แสดงเฉพาะโลโก้"
+
+#: includes/bp-badge-admin.php:162
+#: includes/bp-badge-admin.php:176
+#: includes/bp-badge-admin.php:190
+#: includes/bp-badge-admin.php:204
+#: includes/bp-badge-admin.php:288
+#: includes/bp-badge-admin.php:314
+msgid "Yes"
+msgstr "ใช่"
+
+#: includes/bp-badge-admin.php:164
+#: includes/bp-badge-admin.php:178
+#: includes/bp-badge-admin.php:192
+#: includes/bp-badge-admin.php:206
+#: includes/bp-badge-admin.php:290
+#: includes/bp-badge-admin.php:316
+msgid "No"
+msgstr "ไม่ใช่"
+
+#: includes/bp-badge-admin.php:172
+msgid "User can select layout"
+msgstr "ผู้ใช้สามารถเลือกเลเอ้าท์"
+
+#: includes/bp-badge-admin.php:186
+msgid "User can add profile image"
+msgstr "ผู้ใช้สามารถเพิ่มรูปส่วนตัว"
+
+#: includes/bp-badge-admin.php:200
+msgid "User can add xprofile information"
+msgstr "ผู้ใช้สามารถเพิ่มข้อมูลส่วนตัว"
+
+#: includes/bp-badge-admin.php:214
+msgid "Display option"
+msgstr "ตัวเลือกการแสดงผล"
+
+#: includes/bp-badge-admin.php:220
+msgid "Default layout"
+msgstr "เลเอ้าท์หลัก"
+
+#: includes/bp-badge-admin.php:224
+#: includes/bp-badge-core.php:543
+msgid "Vertical"
+msgstr "แนวตั้ง"
+
+#: includes/bp-badge-admin.php:226
+#: includes/bp-badge-core.php:547
+msgid "Horizontal"
+msgstr "แนวนอน"
+
+#: includes/bp-badge-admin.php:234
+msgid "Default profile image"
+msgstr "แสดงรูปส่วนตัว"
+
+#: includes/bp-badge-admin.php:238
+msgid "Show"
+msgstr "แสดง"
+
+#: includes/bp-badge-admin.php:240
+msgid "Hide"
+msgstr "ซ่อน"
+
+#: includes/bp-badge-admin.php:248
+msgid "Profile image size"
+msgstr "ขนาดรูปภาพส่วนตัว"
+
+#: includes/bp-badge-admin.php:252
+msgid "Thumbnail"
+msgstr "ขนาดย่อ"
+
+#: includes/bp-badge-admin.php:254
+msgid "Full"
+msgstr "ขนาดเต็ม"
+
+#: includes/bp-badge-admin.php:262
+msgid "Background color"
+msgstr "สีพื้น"
+
+#: includes/bp-badge-admin.php:272
+msgid "Text color"
+msgstr "สีตัวอักษร"
+
+#: includes/bp-badge-admin.php:284
+msgid "Bold field text"
+msgstr "หัวข้อใช้ตัวอักษรตัวหนา"
+
+#: includes/bp-badge-admin.php:298
+msgid "Field text color"
+msgstr "สีตัวอักษรของหัวข้อ"
+
+#: includes/bp-badge-admin.php:310
+msgid "Show badge border"
+msgstr "แสดงขอบ"
+
+#: includes/bp-badge-admin.php:324
+msgid "Border color"
+msgstr "สีขอบ"
+
+#: includes/bp-badge-admin.php:336
+msgid "Badge code"
+msgstr "โค้ด badge"
+
+#: includes/bp-badge-admin.php:340
+msgid "Long"
+msgstr "ยาว"
+
+#: includes/bp-badge-admin.php:342
+msgid "Short"
+msgstr "สั้น"
+
+#: includes/bp-badge-admin.php:349
+msgid "Exclude field (seperate by ,)"
+msgstr "ไม่แสดงฟิลล์ (คั่นด้วย ,)"
+
+#: includes/bp-badge-admin.php:363
+msgid "Save Settings"
+msgstr ""
+
+#: includes/bp-badge-core.php:98
+msgid "Badge Setup"
+msgstr ""
+
+#: includes/bp-badge-core.php:130
+msgid "Badge"
+msgstr ""
+
+#: includes/bp-badge-core.php:471
+#: includes/bp-badge-core.php:475
+msgid "Buddypress Badge START"
+msgstr ""
+
+#: includes/bp-badge-core.php:471
+msgid "Create Your Badge"
+msgstr ""
+
+#: includes/bp-badge-core.php:471
+#: includes/bp-badge-core.php:475
+msgid "Buddypress Badge END"
+msgstr ""
+
+#: includes/bp-badge-core.php:539
+msgid "Layout :"
+msgstr "เลเอ้าท์"
+
+#: includes/bp-badge-core.php:557
+msgid "Information :"
+msgstr "ข้อมูลส่วนตัว"
+
+#: includes/bp-badge-core.php:569
+msgid "Photo"
+msgstr "รูปภาพ"
+
+#: includes/bp-badge-core.php:599
+msgid "Update Badge"
+msgstr ""
+
+#: includes/templates/badge/screen.php:49
+msgid "Badge Generator"
+msgstr ""
+
+#: includes/templates/badge/screen.php:95
+msgid "Copy and Pasts the following code on your website :"
+msgstr "ก็อปปี้โค้ดด้านล่างไปแปะที่เว็บไซต์ :"
+
+#: includes/templates/badge/screen.php:103
+msgid "Preview :"
+msgstr "ตัวอย่าง :"
+
